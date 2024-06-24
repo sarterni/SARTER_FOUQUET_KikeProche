@@ -1,0 +1,4 @@
+Afin de facilité la colaboration création d'un code partagé ou chacun peut interagir modifié et comenté.
+Création d'un read me qui prévisualise les test à faire.
+Compilation et test fait au fur et à mesure.
+Lancement des tests (Les tests sont fonctionelles)

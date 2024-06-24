@@ -1,0 +1,15 @@
+Test  à écrire:
+
+Test constructeur Normal
+Test methode ajouterCarac
+Test methode getValeur_ok
+Test methode getValeur_existe_pas
+Test set Visibsle
+Test constructeur Chaine
+Test methode ToString_visible
+Test methode ToString_Non_visible
+
+
+Test Constructeur Paquet
+
+Test methode AjouterCarte
